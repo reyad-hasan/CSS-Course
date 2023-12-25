@@ -3,9 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
-h1 {
+.first-heading {
   color: white;
   background: blueviolet;
   padding: 10px;
   text-align: center;
+  font-size: 45px;
 }
